@@ -1,0 +1,11 @@
+{
+  "name": "typewatch",
+  "version": "0.0.1",
+  "description": "A type sanity and testing harness for javascript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Quis custodiet ipsos custodes?\" && exit 1"
+  },
+  "author": "Donald Mackintosh",
+  "license": "MIT"
+}
